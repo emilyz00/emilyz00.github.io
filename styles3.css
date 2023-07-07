@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  background-color: #f8f9fa;
+  padding: 20px;
+  text-align: center;
+}
+
+.section {
+  margin: 20px;
+}
+
+.section h2 {
+  color: #007BFF;
+}
+
+.section p {
+  text-align: justify;
+}
+
+a {
+  display: block;
+  text-align: center;
+  margin: 20px;
+  color: #007BFF;
+  text-decoration: none;
+}
